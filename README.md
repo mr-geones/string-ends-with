@@ -2,7 +2,7 @@ Complete the solution so that it returns true if the first argument(string) pass
 
 Examples:
 
-solution('abc', 'bc') // returns true
+solution('abc', 'bc') // returns true <br> 
 solution('abc', 'd') // returns false
 
 <br>
